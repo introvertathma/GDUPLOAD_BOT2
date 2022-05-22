@@ -28,8 +28,7 @@
 ## Deploying
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kjeymax/GDUPLOAD_BOT2)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/introvertathma/GDUPLOAD_BOT2)
 ### Deploy on Railway
 
 [![Deploy To Railway](https://railway.app/button.svg)](https://railway.app)
